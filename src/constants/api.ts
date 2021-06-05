@@ -1,0 +1,1 @@
+export const API_URL = 'https://api.lever.co/v0/postings/musicworldmedia?mode=json&group=team';
